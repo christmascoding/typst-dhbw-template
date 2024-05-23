@@ -77,7 +77,7 @@
         }
       ),
       text(weight: "semibold", if (language == "de") {
-        "Beteuer an der DHBW:"
+        "Betreuer an der DHBW:"
       } else {
         "Supervisor at DHBW:"
       }),
